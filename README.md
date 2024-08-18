@@ -6,11 +6,6 @@
 | BSc. Business Administration| Ashesi University (May 2020) |
 
 
-|:-------------|:------------------|
-| BSc. Business Administration| Ashesi University (May 2020)|
-hi
-BSc. Business Administration, Ashesi University(May 2020)
-
 ### Work Experince
 Treasurer @ Tema Flourish Toastmasters
 - Managing club’s finances and budgets as Treasurer
