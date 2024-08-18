@@ -1,4 +1,4 @@
-# Data Scientist with a Focus on Finance and Economics.
+# Data Scientist
 
 ### Education
 
