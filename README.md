@@ -1,6 +1,11 @@
 # Data Scientist with a Focus on Finance and Economics.
 
 ### Education
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+
 |:-------------|:------------------|
 | BSc. Business Administration| Ashesi University (May 2020)|
 hi
