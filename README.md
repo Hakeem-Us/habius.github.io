@@ -1,7 +1,7 @@
 # Data Scientist with a Focus on Finance and Economics.
 
 ### Education
-| BSc. Business Administration           | Ashesi University (May 2020)
+| BSc. Business Administration           | Ashesi University (May 2020) |
 BSc. Business Administration, Ashesi University(May 2020)
 
 ### Work Experince
