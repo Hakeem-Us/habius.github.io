@@ -1,9 +1,8 @@
 # Data Scientist
+#### Technical Skills: Python, SQL, R
 
 ### Education
-
-*  |:----------------------------|:-----------------------------|
-| BSc. Business Administration| Ashesi University (May 2020) |
+- | BSc. Business Administration| Ashesi University (_May 2020_)
 
 
 ### Work Experince
@@ -16,4 +15,4 @@
 - Automating the budget consolidation process with Power Query leading to speed and 99% data accuracy.
 
 ### Projects
-Banking
+### Data-Driven EEG Band Discovery with Decision Trees
